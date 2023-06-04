@@ -75,4 +75,3 @@ for m in markers:
 ```
 
 [sr-api]: https://studentrobotics.org/docs/programming/sr/
-# researchtrack_assignment_01
